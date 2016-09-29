@@ -1,0 +1,8 @@
+1). Open a shell to this directory and input "ant compile"
+
+2). type "cd bin/classes" into the shell  
+
+3). type "java robotCleaner/src/main/Main" into the shell and press enter
+
+4). type "1" into the shell and press enter
+
